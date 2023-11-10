@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "minecraft:mangrove_wood"
+      },
+      {
+        "item": "minecraft:mangrove_wood"
+      },
+      {
+        "item": "minecraft:mangrove_wood"
+      }
+    ],
+    "result": {
+      "item": "minecraft:mangrove_log",
+      "count": 4
+    }
+  }
+  
