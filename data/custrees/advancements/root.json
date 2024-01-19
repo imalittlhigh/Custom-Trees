@@ -13,7 +13,7 @@
         "show_toast": false,
         "announce_to_chat": false,
         "hidden": false,
-        "background": "minecraft:textures/gui/advancements/backgrounds/farmland.png"
+        "background": "minecraft:textures/gui/advancements/backgrounds/husbandry.png"
     },
     "criteria": {
         "1": {
