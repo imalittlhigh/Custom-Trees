@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "Custom Trees"
+        },
+        "description": {
+            "text": "https://www.planetminecraft.com/data-pack/custom-trees-from-saplings/"
+        },
+        "icon": {
+            "item": "minecraft:oak_sapling"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "imalittlhigh:root"
+}
