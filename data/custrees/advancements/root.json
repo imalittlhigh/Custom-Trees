@@ -1,0 +1,23 @@
+{
+    "display": {
+        "title": {
+            "text": "littlhigh Datapacks"
+        },
+        "description": {
+            "text": "Seems like there are some of my Datapacks in this world =)"
+        },
+        "icon": {
+            "item": "minecraft:wheat"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/farmland.png"
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
