@@ -30,4 +30,4 @@ execute as @s[tag=custrees.marker.cherry,scores={custree_stage=..3}] at @s if bl
 execute as @s[tag=custrees.marker.cherry,scores={custree_stage=4..}] at @s if block ~ ~ ~ cherry_sapling[stage=1] run function custrees:tree/grow/cherry
 
 
-execute as @s[tag=custrees.marker.azalea] at @s if block ~ ~ ~ oak_log unless entity @s[type=item,nbt={Item:{id:"minecraft:flowering_azalea",Count:1b}},distance=..2] run function custrees:tree/grow/azalea
+execute as @s[tag=custrees.marker.azalea] at @s if block ~ ~ ~ oak_log unless entity @s[type=item,nbt={Item:{id:"minecraft:flowering_azalea",count:1}},distance=..2] run function custrees:tree/grow/azalea

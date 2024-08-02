@@ -12,7 +12,7 @@
       }
     ],
     "result": {
-      "item": "minecraft:spruce_log",
+      "id": "minecraft:spruce_log",
       "count": 4
     }
   }

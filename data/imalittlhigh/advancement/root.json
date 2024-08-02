@@ -7,7 +7,7 @@
             "text": "Seems like there are some of my Datapacks in this world =)"
         },
         "icon": {
-            "item": "minecraft:wheat"
+            "id": "minecraft:wheat"
         },
         "frame": "task",
         "show_toast": false,

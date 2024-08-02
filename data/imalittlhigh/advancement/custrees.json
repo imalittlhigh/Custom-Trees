@@ -4,10 +4,10 @@
             "text": "Custom Trees"
         },
         "description": {
-            "text": "https://www.planetminecraft.com/data-pack/custom-trees-from-saplings/"
+            "text": "Autofill /function custrees:config/ to change default Tree form"
         },
         "icon": {
-            "item": "minecraft:oak_sapling"
+            "id": "minecraft:oak_sapling"
         },
         "frame": "task",
         "show_toast": false,
@@ -19,5 +19,5 @@
             "trigger": "minecraft:tick"
         }
     },
-    "parent": "custrees:root"
+    "parent": "imalittlhigh:root"
 }

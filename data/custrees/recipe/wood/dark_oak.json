@@ -2,17 +2,17 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
       {
-        "item": "minecraft:mangrove_wood"
+        "item": "minecraft:dark_oak_wood"
       },
       {
-        "item": "minecraft:mangrove_wood"
+        "item": "minecraft:dark_oak_wood"
       },
       {
-        "item": "minecraft:mangrove_wood"
+        "item": "minecraft:dark_oak_wood"
       }
     ],
     "result": {
-      "item": "minecraft:mangrove_log",
+      "id": "minecraft:dark_oak_log",
       "count": 4
     }
   }

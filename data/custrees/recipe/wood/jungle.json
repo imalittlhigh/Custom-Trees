@@ -2,17 +2,17 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
       {
-        "item": "minecraft:birch_wood"
+        "item": "minecraft:jungle_wood"
       },
       {
-        "item": "minecraft:birch_wood"
+        "item": "minecraft:jungle_wood"
       },
       {
-        "item": "minecraft:birch_wood"
+        "item": "minecraft:jungle_wood"
       }
     ],
     "result": {
-      "item": "minecraft:birch_log",
+      "id": "minecraft:jungle_log",
       "count": 4
     }
   }

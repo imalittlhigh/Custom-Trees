@@ -7,7 +7,7 @@
               "offsetZ": 0,
               "predicate": {
                 "block": {
-                  "tag": "minecraft:flowers"
+                  "blocks": "#minecraft:flowers"
                 }
               }
             },
@@ -17,7 +17,7 @@
                 "offsetZ": 0,
                 "predicate": {
                   "block": {
-                    "tag": "minecraft:flowers"
+                    "blocks": "#minecraft:flowers"
                   }
                 }
               },
@@ -27,7 +27,7 @@
                   "offsetZ": 0,
                   "predicate": {
                     "block": {
-                      "tag": "minecraft:flowers"
+                      "blocks": "#minecraft:flowers"
                     }
                   }
                 },
@@ -37,7 +37,7 @@
                     "offsetZ": 0,
                     "predicate": {
                       "block": {
-                        "tag": "minecraft:flowers"
+                        "blocks": "#minecraft:flowers"
                       }
                     }
                   },
@@ -47,7 +47,7 @@
                       "offsetZ": 1,
                       "predicate": {
                         "block": {
-                          "tag": "minecraft:flowers"
+                          "blocks": "#minecraft:flowers"
                         }
                       }
                     },
@@ -57,7 +57,7 @@
                         "offsetZ": 2,
                         "predicate": {
                           "block": {
-                            "tag": "minecraft:flowers"
+                            "blocks": "#minecraft:flowers"
                           }
                         }
                       },
@@ -67,7 +67,7 @@
                           "offsetZ": -1,
                           "predicate": {
                             "block": {
-                              "tag": "minecraft:flowers"
+                              "blocks": "#minecraft:flowers"
                             }
                           }
                         },
@@ -77,7 +77,7 @@
                             "offsetZ": -2,
                             "predicate": {
                               "block": {
-                                "tag": "minecraft:flowers"
+                                "blocks": "#minecraft:flowers"
                               }
                             }
                           },
@@ -87,7 +87,7 @@
                               "offsetZ": 1,
                               "predicate": {
                                 "block": {
-                                  "tag": "minecraft:flowers"
+                                  "blocks": "#minecraft:flowers"
                                 }
                               }
                             },
@@ -97,7 +97,7 @@
                                 "offsetZ": -1,
                                 "predicate": {
                                   "block": {
-                                    "tag": "minecraft:flowers"
+                                    "blocks": "#minecraft:flowers"
                                   }
                                 }
                               },
@@ -107,7 +107,7 @@
                                   "offsetZ": 1,
                                   "predicate": {
                                     "block": {
-                                      "tag": "minecraft:flowers"
+                                      "blocks": "#minecraft:flowers"
                                     }
                                   }
                                 },
@@ -117,7 +117,7 @@
                                     "offsetZ": 2,
                                     "predicate": {
                                       "block": {
-                                        "tag": "minecraft:flowers"
+                                        "blocks": "#minecraft:flowers"
                                       }
                                     }
                                   },
@@ -127,7 +127,7 @@
                                       "offsetZ": -2,
                                       "predicate": {
                                         "block": {
-                                          "tag": "minecraft:flowers"
+                                          "blocks": "#minecraft:flowers"
                                         }
                                       }
                                     },
@@ -137,7 +137,7 @@
                                         "offsetZ": -2,
                                         "predicate": {
                                           "block": {
-                                            "tag": "minecraft:flowers"
+                                            "blocks": "#minecraft:flowers"
                                           }
                                         }
                                       },
@@ -147,7 +147,7 @@
                                           "offsetZ": -2,
                                           "predicate": {
                                             "block": {
-                                              "tag": "minecraft:flowers"
+                                              "blocks": "#minecraft:flowers"
                                             }
                                           }
                                         },
@@ -157,7 +157,7 @@
                                             "offsetZ": -2,
                                             "predicate": {
                                               "block": {
-                                                "tag": "minecraft:flowers"
+                                                "blocks": "#minecraft:flowers"
                                               }
                                             }
                                           },
@@ -167,7 +167,7 @@
                                               "offsetZ": -2,
                                               "predicate": {
                                                 "block": {
-                                                  "tag": "minecraft:flowers"
+                                                  "blocks": "#minecraft:flowers"
                                                 }
                                               }
                                             }

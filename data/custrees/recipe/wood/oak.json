@@ -12,7 +12,7 @@
       }
     ],
     "result": {
-      "item": "minecraft:oak_log",
+      "id": "minecraft:oak_log",
       "count": 4
     }
   }
