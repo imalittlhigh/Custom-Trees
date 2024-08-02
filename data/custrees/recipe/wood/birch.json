@@ -2,17 +2,17 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
       {
-        "item": "minecraft:crimson_hyphae"
+        "item": "minecraft:birch_wood"
       },
       {
-        "item": "minecraft:crimson_hyphae"
+        "item": "minecraft:birch_wood"
       },
       {
-        "item": "minecraft:crimson_hyphae"
+        "item": "minecraft:birch_wood"
       }
     ],
     "result": {
-      "item": "minecraft:crimson_stem",
+      "id": "minecraft:birch_log",
       "count": 4
     }
   }

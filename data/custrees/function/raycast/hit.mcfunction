@@ -16,6 +16,8 @@ execute if block ~ ~ ~ spruce_sapling align xyz run summon marker ~0.5 ~ ~0.5 {N
 execute if block ~ ~ ~ acacia_sapling align xyz run summon marker ~0.5 ~ ~0.5 {NoGravity:1b,Invulnerable:1b,Tags:["custrees.marker","custrees.marker.acacia"]}
 execute if block ~ ~ ~ cherry_sapling align xyz run summon marker ~0.5 ~ ~0.5 {NoGravity:1b,Invulnerable:1b,Tags:["custrees.marker","custrees.marker.cherry"]}
 
-execute if block ~ ~ ~ #custrees:saplings align xyz positioned ~0.5 ~0.9 ~0.5 run particle scrape ~ ~ ~ 0 0 0 0 1
+execute if block ~ ~ ~ #custrees:saplings align xyz run summon block_display ~ ~ ~ {Tags:["custrees.display","custrees.display.bonemeal"],Passengers:[{Tags:["custrees.display","custrees.display.bonemeal"],id:"minecraft:item_display",item:{id:"minecraft:bone_meal",count:1},transformation:[0.6875f,0.0000f,0.0000f,0.5000f,0.0000f,-0.0000f,-0.5000f,0.0134f,0.0000f,0.6875f,-0.0000f,0.5000f,0.0000f,0.0000f,0.0000f,1.0000f]},{Tags:["custrees.display","custrees.display.bonemeal"],id:"minecraft:item_display",item:{id:"minecraft:bone_meal",count:1},transformation:[0.4375f,0.0000f,0.0000f,0.5000f,0.0000f,-0.0000f,-0.5000f,0.0306f,0.0000f,0.4375f,-0.0000f,0.5000f,0.0000f,0.0000f,0.0000f,1.0000f]}]}
 
-execute as @e[tag=custrees.marker] unless score @s custree_stage matches 1.. run scoreboard players set @s custree_stage 0
+
+
+execute as @e[type=marker,tag=custrees.marker] unless score @s custree_stage matches 1.. run scoreboard players set @s custree_stage 0
