@@ -1,6 +1,21 @@
 {
 	"pack": {
-		"pack_format": 48,
-		"description": "Custom Trees by imalittlhigh"
+	  "pack_format": 61,
+	  "description": {
+		"text": "Custom Trees",
+		"color": "gold",
+		"extra": [
+		  {
+			"text": " by ",
+			"color": "aqua"
+		  },
+		  {
+			"text": "imalittlhigh",
+			"color": "gold",
+			"italic": true
+		  }
+		]
+	  }
 	}
-}
+  }
+  
